@@ -1,6 +1,5 @@
 # recommendation-systemm
 
-### Recommendation System
 
 Create a simple recommendation system that suggests items to users based on their preferences. Techniques like collaborative filtering or content-based filtering are used to recommend movies, books, or products to users.
 
